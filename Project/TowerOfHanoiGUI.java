@@ -218,6 +218,10 @@ public class TowerOfHanoiGUI extends GameComponent implements MouseListener, Mou
 
     @Override
     protected void resetGame() {
+        rods.clear();
+        for(int i = 0;i<3;i++){
+            rods.add(new Stack<>());
+        }
         initializeDisks();
         moveCount = -1;
         repaint();
