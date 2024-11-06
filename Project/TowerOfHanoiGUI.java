@@ -78,7 +78,7 @@ public class TowerOfHanoiGUI extends GameComponent implements MouseListener, Mou
                 options,
                 options[0]
         );
-        return selectedValue != null ? Integer.parseInt(selectedValue) : 3; // Default to 3 disks if canceled
+        return Integer.parseInt(selectedValue); // Default to 3 disks if canceled
     }
 
     private void initializeDisks() {
