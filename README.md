@@ -20,7 +20,7 @@ This is a graphical user interface (GUI) implementation of the classic Tower of 
 To clone the project repository to your local machine, run:
 
 ```bash
-git clone https://github.com/yourusername/tower-of-hanoi-java-gui.git 
+git clone https://github.com/Neeraj1437/tower-of-hanoi-java-gui.git 
 ```
 ### 2. Open the project in your preferred IDE
 ### 3. Run the application:
