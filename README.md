@@ -20,17 +20,17 @@ This is a graphical user interface (GUI) implementation of the classic Tower of 
 To clone the project repository to your local machine, run:
 
 ```bash
-git clone https://github.com/Neeraj1437/tower-of-hanoi-java-gui.git 
+git clone https://github.com/Neeraj1437/Tower-Of-Hanoi.git 
 ```
 ### 2. Open the project in your preferred IDE
 ### 3. Run the application:
-Compile and run the `TowerOfHanoi.java` file from the `src` directory.
+Compile and run the `TowerOfHanoiGUI.java` file from the `src` directory.
   - If using the command line
     ```bash
-       javac TowerOfHanoi.java
-       java TowerOfHanoi
+       javac TowerOfHanoiGUI.java
+       java TowerOfHanoiGUI
        ```
-  - If using an IDE, simply open `TowerOfHanoi.java` and run the project.
+  - If using an IDE, simply open `TowerOfHanoiGUI.java` and run the project.
 
 ### Example Screenshots of the Application
 
