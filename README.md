@@ -32,4 +32,20 @@ Compile and run the `TowerOfHanoiGUI.java` file from the `src` directory.
   - If using an IDE, simply open `TowerOfHanoiGUI.java` and run the project.
 
 ## Example Screenshots of the Application
++ **Disk Selection**:
+  
+![Disk Select](./Output/0.png)
 
++ **Main Window with Tower Setup**:
+  
+![Move Action](./Output/1.png)
+
++ **Interactive Movement**:
+  
+![Final Solution](./Output/2.png)
+
++ **Final Solution**
+
+![Final Solution](./Output/3.png)
+
+  
