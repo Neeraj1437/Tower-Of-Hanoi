@@ -22,8 +22,7 @@ To clone the project repository to your local machine, run:
 ```bash
 git clone https://github.com/Neeraj1437/Tower-Of-Hanoi.git 
 ```
-### 2. Open the project in your preferred IDE
-### 3. Run the application:
+### 2. Run the application:
 Compile and run the `TowerOfHanoiGUI.java` file from the `src` directory.
   - If using the command line
     ```bash
@@ -32,5 +31,5 @@ Compile and run the `TowerOfHanoiGUI.java` file from the `src` directory.
        ```
   - If using an IDE, simply open `TowerOfHanoiGUI.java` and run the project.
 
-### Example Screenshots of the Application
+## Example Screenshots of the Application
 
