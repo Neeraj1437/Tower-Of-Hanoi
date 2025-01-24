@@ -8,11 +8,6 @@ This is a graphical user interface (GUI) implementation of the classic Tower of 
 ## Features
 - Visual representation of the Tower of Hanoi problem using Java Swing.
 - Interactive interface for users to choose the number of disks.
-  
-## Prerequisites
-- JDK 8 or higher installed on your system.
-- IDE or text editor (e.g., IntelliJ IDEA, Eclipse, or Visual Studio Code) for running Java programs.
-- Java Swing library (included in the JDK).
 
 ## Getting Started
 
