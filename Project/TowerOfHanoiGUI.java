@@ -4,7 +4,7 @@ import java.awt.event.*;
 import java.util.ArrayList;
 import java.util.Stack;
 
-// Abstract base class representing common properties of any graphical game component
+// Abstract base class representing common properties of graphical game component
 abstract class GameComponent extends JPanel {
     protected int numberOfDisks;
     protected int moveCount;
@@ -13,7 +13,7 @@ abstract class GameComponent extends JPanel {
     public GameComponent(int numberOfDisks) {
         this.numberOfDisks = numberOfDisks;
         this.moveCount = -1;
-        this.maxMoves = (int) Math.pow(2, numberOfDisks) - 1; // Calculate max moves
+        this.maxMoves = (int) Math.pow(2, numberOfDisks) - 1; // max moves
     }
 
     protected abstract void resetGame(); // Abstract method to be implemented by subclasses
@@ -110,7 +110,7 @@ public class TowerOfHanoiGUI extends GameComponent implements MouseListener, Mou
 
         // Draw the platform
         g.setColor(Color.GRAY);
-        g.fillRect(25, 300, 550, 5); // Adjust dimensions and position as needed
+        g.fillRect(25, 300, 550, 5); // Adjust dimensions and position
 
         // Draw rods
         for (int i = 0; i < 3; i++) {
